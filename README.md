@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Bangash</h1>
-<h3 align="center">AI/Data Platform Architect | Cloud | Big Data | ETL/ELT</h3> 
+<h3 align="center">Data Solutions Architect | Cloud | Big Data | ETL/ELT</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibangashwork-collab&label=Profile%20views&color=0e75b6&style=flat" alt="alibangashwork-collab" /> </p>
 
-- 🔭 I’m currently working on **Building scalable healthcare data platforms at NexHealth**
+- 🔭 I’m currently working on **Building scalable healthcare data platforms at ScienceSoft**
 
 - 🌱 I’m currently learning **Advanced Data Lakehouse Architectures, Real-time Streaming (Flink), and MLOps**
 
