@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Bangash</h1>
-<h3 align="center">Data Solutions Architect | Lead Data Engineer | Senior Data Engineer | ETL and Data Warehouse</h3> 
+<h3 align="center">Data Architect | Lead Data Engineer | Senior Data Engineer | Data Engineer</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibangashwork-collab&label=Profile%20views&color=0e75b6&style=flat" alt="alibangashwork-collab" /> </p>
 
